@@ -1,5 +1,7 @@
 # Empower Plant
 
+This is my personal copy of Empower Plant, which can be found at: https://github.com/sentry-demos/empower/
+
 <img width="633" alt="Empower Plant website screenshot" src="https://github.com/sentry-demos/empower/assets/490201/6bce9ad6-d256-4a6d-a49b-e0fe8cdd193c">
 
 
